@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Sawant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding"  width ="100vw"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp2NzlsaHN6b2Y5Y3JvM3ptdjZkaXg0a3dodjE5eW1ob2xscTRqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"/>
+<h3 align="center">A fullstack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalsawant&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsawant" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalsawant" alt="pranjalsawant" /></a> </p>
